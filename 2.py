@@ -8,6 +8,8 @@ from fnmatch import fnmatch
 #arr = np.zeros((309,988))
 arr = np.zeros((309,6552))
 
+def summ_(a, b):
+    return (a+b)
 arg1="C:/Users/Lyudmila/Downloads/opensmile-2.3.0/bin/Win32/SMILExtract_Release.exe"
 #arg2="C:/Users/Lyudmila/Downloads/opensmile-2.3.0/config/emobase.conf"
 arg2="C:/Users/Lyudmila/Downloads/opensmile-2.3.0/config/emo_large.conf"
