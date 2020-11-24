@@ -42,3 +42,6 @@ for label,d in enumerate(os.listdir(root)):
 features=np.array(features)
 yy = np.array(y)
 f_name1 = np.array(f_name1)
+
+def my_sum(a, b):
+    return(a+b)
