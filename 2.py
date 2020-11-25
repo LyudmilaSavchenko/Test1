@@ -43,5 +43,5 @@ features=np.array(features)
 yy = np.array(y)
 f_name1 = np.array(f_name1)
 
-def my_div(a, b):
-    return(a/b)
+def my_sum(a, b,c,d):
+    return(a+b+c+d)
